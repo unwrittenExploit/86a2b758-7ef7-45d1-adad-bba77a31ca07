@@ -7,8 +7,8 @@ Motherboard: MSI B550 GAMING GEN3 ATX AM4 Motherboard (€120)
 Case: Corsair 4000D (€105)
 Power Supply: Corsair RM750e (2023) 750 W 80+ Gold Certified Fully Modular ATX Power Supply (€100)
 
-link: https://pcpartpicker.com/list/yfg3gB
-archive: https://imgur.com/835G1sz.png
+link: https://pcpartpicker.com/list/m3Dwyg
+archive: https://imgur.com/AkSP1tw.png
 R: ~€1000
 
 Monitor: AOC 24G2 (€170) = (https://www.pcdiga.com/monitor-aoc-gaming-24g2spu-ips-23-8-fhd-16-9-165hz-freesync-premium-g-sync-compatible-24g2spu-4038986140225)

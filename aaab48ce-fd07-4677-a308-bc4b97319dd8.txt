@@ -29,3 +29,21 @@ deadline: 7 months
 pc: ~€100
 rest: ~€400
 R: €1400
+
+find games:
+            https://steamdb.info/
+            https://sullygnome.com/games
+            https://twitchtracker.com/games
+            https://www.twitch.tv/directory?sort=VIEWER_COUNT
+            https://store.steampowered.com
+
+            https://twitchtracker.com/gratis150ml/games
+            https://twitchtracker.com/forsen/games
+            https://twitchtracker.com/sodapoppin/games
+            https://twitchtracker.com/xqc/games
+            https://twitchtracker.com/moonmoon/games
+            https://twitchtracker.com/surskity/games
+            https://twitchtracker.com/alanzoka/games
+            https://twitchtracker.com/erobb221/games
+
+            and... above streamer playthrough channels. eg: https://www.youtube.com/@ForsenPlays
